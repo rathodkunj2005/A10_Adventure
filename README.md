@@ -1,5 +1,4 @@
-Team Name: The Rivals
-Team members: Kunj Rathod and Arsh Khan
+
 Game name: Astros Adventure
 
 
@@ -7,5 +6,3 @@ Abstract: Our team created a game called Astros Adventure which is based in spac
 
 Work Section
 Hours worked on game: 7 - 8 hours
-Main victories and challenges: Main challenge we faced was in level 3 in order to make the evil follow us in a random motion. The main victory was coming up with new ideas for new levels and completing assignments on time.
-Working with a partner: Working with a partner was a first time experience for both of us. We got to know each other better and got to learn a lot of stuff from each other.
